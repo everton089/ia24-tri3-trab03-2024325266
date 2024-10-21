@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    background-color: black;
+    margin: 0;
+    border: 0;
+    background-image: url(espaço.jpg);
+  }
+  img.backgroud{
+    width: 100vw;
+    height: 100vh;
+  }
+  header {
+    min-width: 100px;
+    min-height: 100px;
+    color: rgb(0, 0, 255);
+    text-align: center;
+  }
+  
+  aside {
+    min-width: 100px;
+    min-height: 100px;
+    background-color: black;
+    text-align: center; 
+    color: blue;
+
+  }
+  div.menu{
+    margin-top: 2rem;
+    margin-right: 2rem;
+  }
+  
+  main {
+    min-width: 100px;
+    min-height: 100px;
+    padding: 1rem;
+    color: blue;
+    text-align: center;
+  }
+  
+  footer {
+    min-width: 100px;
+    min-height: 100px;
+  }
+
+
